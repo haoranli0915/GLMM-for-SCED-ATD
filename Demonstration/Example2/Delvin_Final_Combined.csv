@@ -1,0 +1,56 @@
+IDLEVEL2,Phase,Condition,Session,Time,Time1,Time2,Baseline,Treatment1,Treatment2,Time_Baseline,Time1_Treatment1,Time2_Treatment2,Treatment1_lag1,Treatment2_lag1,Y
+Participant_1,BL,Control,1,-4,-5,-7,1,0,0,-4,0,0,0,0,10
+Participant_1,BL,Control,2,-3,-4,-6,1,0,0,-3,0,0,0,0,12
+Participant_1,BL,Control,3,-2,-3,-5,1,0,0,-2,0,0,0,0,14
+Participant_1,BL,Control,4,-1,-2,-4,1,0,0,-1,0,0,0,0,7
+Participant_1,BL,Control,5,0,-1,-3,1,0,0,0,0,0,0,0,10
+Participant_1,ALT,Treatment 1 (Sit),6,1,0,-2,0,1,0,0,0,0,0,0,7
+Participant_1,ALT,Treatment 1 (Sit),7,2,1,-1,0,1,0,0,1,0,1,0,22
+Participant_1,ALT,Treatment 2 (BI),8,3,2,0,0,0,1,0,0,0,1,0,0
+Participant_1,ALT,Treatment 2 (BI),9,4,3,1,0,0,1,0,0,1,0,1,15
+Participant_1,ALT,Treatment 1 (Sit),10,5,4,2,0,1,0,0,4,0,0,1,0
+Participant_1,ALT,Treatment 1 (Sit),11,6,5,3,0,1,0,0,5,0,1,0,35
+Participant_1,ALT,Treatment 2 (BI),12,7,6,4,0,0,1,0,0,4,1,0,3
+Participant_2,BL,Control,1,-4,-6,-5,1,0,0,-4,0,0,0,0,9
+Participant_2,BL,Control,2,-3,-5,-4,1,0,0,-3,0,0,0,0,12
+Participant_2,BL,Control,3,-2,-4,-3,1,0,0,-2,0,0,0,0,7
+Participant_2,BL,Control,4,-1,-3,-2,1,0,0,-1,0,0,0,0,10
+Participant_2,BL,Control,5,0,-2,-1,1,0,0,0,0,0,0,0,8
+Participant_2,ALT,Treatment 2 (BI),6,1,-1,0,0,0,1,0,0,0,0,0,2
+Participant_2,ALT,Treatment 1 (Sit),7,2,0,1,0,1,0,0,0,0,0,1,6
+Participant_2,ALT,Treatment 1 (Sit),8,3,1,2,0,1,0,0,1,0,1,0,10
+Participant_2,ALT,Treatment 2 (BI),9,4,2,3,0,0,1,0,0,3,1,0,3
+Participant_2,ALT,Treatment 2 (BI),10,5,3,4,0,0,1,0,0,4,0,1,2
+Participant_2,ALT,Treatment 1 (Sit),11,6,4,5,0,1,0,0,4,0,0,1,7
+Participant_2,ALT,Treatment 2 (BI),12,7,5,6,0,0,1,0,0,6,1,0,4
+Participant_2,ALT,Treatment 2 (BI),13,8,6,7,0,0,1,0,0,7,0,1,2
+Participant_2,ALT,Treatment 1 (Sit),14,9,7,8,0,1,0,0,7,0,0,1,5
+Participant_2,ALT,Treatment 1 (Sit),15,10,8,9,0,1,0,0,8,0,1,0,6
+Participant_3,BL,Control,1,-4,-5,-6,1,0,0,-4,0,0,0,0,8
+Participant_3,BL,Control,2,-3,-4,-5,1,0,0,-3,0,0,0,0,5
+Participant_3,BL,Control,3,-2,-3,-4,1,0,0,-2,0,0,0,0,7
+Participant_3,BL,Control,4,-1,-2,-3,1,0,0,-1,0,0,0,0,12
+Participant_3,BL,Control,5,0,-1,-2,1,0,0,0,0,0,0,0,10
+Participant_3,ALT,Treatment 1 (Sit),6,1,0,-1,0,1,0,0,0,0,0,0,0
+Participant_3,ALT,Treatment 2 (BI),7,2,1,0,0,0,1,0,0,0,1,0,3
+Participant_3,ALT,Treatment 1 (Sit),8,3,2,1,0,1,0,0,2,0,0,1,14
+Participant_3,ALT,Treatment 2 (BI),9,4,3,2,0,0,1,0,0,2,1,0,0
+Participant_3,ALT,Treatment 2 (BI),10,5,4,3,0,0,1,0,0,3,0,1,0
+Participant_3,ALT,Treatment 1 (Sit),11,6,5,4,0,1,0,0,5,0,0,1,16
+Participant_3,ALT,Treatment 1 (Sit),12,7,6,5,0,1,0,0,6,0,1,0,4
+Participant_3,ALT,Treatment 2 (BI),13,8,7,6,0,0,1,0,0,6,1,0,1
+Participant_4,BL,Control,1,-4,-6,-5,1,0,0,-4,0,0,0,0,10
+Participant_4,BL,Control,2,-3,-5,-4,1,0,0,-3,0,0,0,0,13
+Participant_4,BL,Control,3,-2,-4,-3,1,0,0,-2,0,0,0,0,14
+Participant_4,BL,Control,4,-1,-3,-2,1,0,0,-1,0,0,0,0,9
+Participant_4,BL,Control,5,0,-2,-1,1,0,0,0,0,0,0,0,11
+Participant_4,ALT,Treatment 2 (BI),6,1,-1,0,0,0,1,0,0,0,0,0,1
+Participant_4,ALT,Treatment 1 (Sit),7,2,0,1,0,1,0,0,0,0,0,1,8
+Participant_4,ALT,Treatment 1 (Sit),8,3,1,2,0,1,0,0,1,0,1,0,4
+Participant_4,ALT,Treatment 2 (BI),9,4,2,3,0,0,1,0,0,3,1,0,8
+Participant_4,ALT,Treatment 2 (BI),10,5,3,4,0,0,1,0,0,4,0,1,1
+Participant_4,ALT,Treatment 1 (Sit),11,6,4,5,0,1,0,0,4,0,0,1,11
+Participant_4,ALT,Treatment 1 (Sit),12,7,5,6,0,1,0,0,5,0,1,0,8
+Participant_4,ALT,Treatment 2 (BI),13,8,6,7,0,0,1,0,0,7,1,0,6
+Participant_4,ALT,Treatment 2 (BI),14,9,7,8,0,0,1,0,0,8,0,1,5
+Participant_4,ALT,Treatment 1 (Sit),15,10,8,9,0,1,0,0,8,0,0,1,6
